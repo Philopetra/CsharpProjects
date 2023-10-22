@@ -1,0 +1,4 @@
+{
+    "omnisharp.enableAsyncCompletion": true,
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true
+}

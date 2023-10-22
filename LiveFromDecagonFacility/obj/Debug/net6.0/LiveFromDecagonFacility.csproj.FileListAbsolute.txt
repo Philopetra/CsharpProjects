@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\bin\Debug\net6.0\LiveFromDecagonFacility.exe
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\bin\Debug\net6.0\LiveFromDecagonFacility.deps.json
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\bin\Debug\net6.0\LiveFromDecagonFacility.runtimeconfig.json
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\bin\Debug\net6.0\LiveFromDecagonFacility.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\bin\Debug\net6.0\LiveFromDecagonFacility.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\refint\LiveFromDecagonFacility.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\LiveFromDecagonFacility.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\LiveFromDecagonFacility\obj\Debug\net6.0\ref\LiveFromDecagonFacility.dll

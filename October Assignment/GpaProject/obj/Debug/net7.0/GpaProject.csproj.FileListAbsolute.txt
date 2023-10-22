@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\bin\Debug\net7.0\GpaProject.exe
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\bin\Debug\net7.0\GpaProject.deps.json
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\bin\Debug\net7.0\GpaProject.runtimeconfig.json
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\bin\Debug\net7.0\GpaProject.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\bin\Debug\net7.0\GpaProject.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\refint\GpaProject.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\GpaProject.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\October Assignment\GpaProject\obj\Debug\net7.0\ref\GpaProject.dll

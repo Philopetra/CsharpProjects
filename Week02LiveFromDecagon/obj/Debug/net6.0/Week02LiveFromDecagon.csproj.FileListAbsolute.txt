@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\bin\Debug\net6.0\Week02LiveFromDecagon.exe
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\bin\Debug\net6.0\Week02LiveFromDecagon.deps.json
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\bin\Debug\net6.0\Week02LiveFromDecagon.runtimeconfig.json
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\bin\Debug\net6.0\Week02LiveFromDecagon.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\bin\Debug\net6.0\Week02LiveFromDecagon.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\refint\Week02LiveFromDecagon.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\Week02LiveFromDecagon.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\Week02LiveFromDecagon\obj\Debug\net6.0\ref\Week02LiveFromDecagon.dll

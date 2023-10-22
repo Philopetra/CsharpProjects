@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\bin\Debug\net6.0\QuadraticEquApp.exe
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\bin\Debug\net6.0\QuadraticEquApp.deps.json
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\bin\Debug\net6.0\QuadraticEquApp.runtimeconfig.json
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\bin\Debug\net6.0\QuadraticEquApp.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\bin\Debug\net6.0\QuadraticEquApp.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\refint\QuadraticEquApp.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\QuadraticEquApp.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\QuadraticEquApp\obj\Debug\net6.0\ref\QuadraticEquApp.dll

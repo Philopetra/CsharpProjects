@@ -1,0 +1,14 @@
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.AssemblyInfoInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.AssemblyInfo.cs
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\bin\Debug\net7.0\CGPAProject2.exe
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\bin\Debug\net7.0\CGPAProject2.deps.json
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\bin\Debug\net7.0\CGPAProject2.runtimeconfig.json
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\bin\Debug\net7.0\CGPAProject2.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\bin\Debug\net7.0\CGPAProject2.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\refint\CGPAProject2.dll
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.pdb
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\CGPAProject2.genruntimeconfig.cache
+C:\Users\DECAGON\Desktop\CsharpProjects\CGPAProject2\obj\Debug\net7.0\ref\CGPAProject2.dll
